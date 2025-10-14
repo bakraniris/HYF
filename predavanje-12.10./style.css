@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "SUSE Mono", sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 h1 {
@@ -41,6 +41,7 @@ aside {
   right: 10px;
   bottom: 10px;
   position: fixed;
+  width: 600px;
 }
 a {
   color: #8b4513;
